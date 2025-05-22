@@ -1,5 +1,3 @@
-Voici un exemple de contenu pour le fichier `README.md` de ton projet à mettre sur GitHub. Il explique clairement l’objectif du projet, les étapes de traitement, l’utilisation, et les dépendances.
-
 ---
 
 # 🎬 TMDB Movie Recommendation System
