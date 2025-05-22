@@ -1,5 +1,3 @@
----
-
 # 🎬 TMDB Movie Recommendation System
 
 This project is a **content-based movie recommendation system** built using data from the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). It recommends similar movies based on metadata such as genres, keywords, overview, and director.
